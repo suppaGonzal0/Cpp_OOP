@@ -13,3 +13,7 @@ This repository contains the code examples and exercises from the crash course.
   <li>Inheritance</li>
   <li>Polymorphism</li>
 </ul>
+
+<h3>Resource Link:</h3>
+  Object Oriented Programming (OOP) in C++ Course:
+  https://www.youtube.com/watch?v=wN0x9eZLix4
